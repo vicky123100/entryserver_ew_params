@@ -1,0 +1,4 @@
+# Ignore login information
+LoginInfo_sql
+# Others
+password
